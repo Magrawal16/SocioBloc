@@ -32,7 +32,7 @@ export default function AuthLayout() {
 
             <section className="flex flex-1 justify-center items-center flex-col py-10">
               <Outlet />
-              <ConnectWallet />
+              {/* <ConnectWallet /> */}
             </section>
 
             <img
